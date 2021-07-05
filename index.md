@@ -1,5 +1,7 @@
 # Welcome to my site
 
+[Page 2](page2.html)
+
 ## Section 1 about raccoons
 
 a raccoon like grabbing _food_ but they get __angry__
